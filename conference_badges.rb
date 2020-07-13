@@ -14,8 +14,8 @@ end
 
 
 def assign_rooms(speakers)
-   = []
- speakers.each_with_index do |name|
+  new_array = []
+ speakers.each_with_index do |name, index|
    
   end
 end
