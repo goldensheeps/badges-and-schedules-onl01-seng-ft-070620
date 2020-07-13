@@ -11,8 +11,6 @@ def batch_badge_creator(names)
    return badges 
 end
 
-
-
 def assign_rooms(speakers)
   new_array = []
   speakers.each_with_index do |name, index_room|
@@ -22,9 +20,7 @@ def assign_rooms(speakers)
 end
 
 
-
-
-
-def printer
-  
+def printer()
+  puts batch_badge_creator
+  puts assign_rooms
 end
