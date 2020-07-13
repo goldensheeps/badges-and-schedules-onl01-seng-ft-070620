@@ -1,6 +1,6 @@
 def badge_maker(conference_speakers)
   conference_speakers[Edsger, Ada, Charles, Alan, Grace, Linus, Matz]
-  puts "Hello"
+  puts "Hello, my name is #{conference_speakers}."
 end
 
 
