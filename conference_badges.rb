@@ -1,1 +1,4 @@
-# Write your code here.
+def badge_maker
+  conference_speakers[]
+end
+
