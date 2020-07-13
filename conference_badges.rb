@@ -1,6 +1,6 @@
 def badge_maker(conference_badges)
   conference_badges.each {|name| 
-    puts "Hello, my name is #{name}."
+    return "Hello, my name is #{name}."
   }
 end
 
