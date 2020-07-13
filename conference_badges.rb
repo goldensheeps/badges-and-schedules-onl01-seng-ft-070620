@@ -4,9 +4,10 @@ end
 
 
 def batch_badge_creator(names)
-  
+  names.each {|name|
+    badge_maker(name)
+  }
 end
-
 
 def assign_rooms
 
