@@ -1,5 +1,5 @@
 def badge_maker(conference_badges)
-  badge_maker.each do |name| 
+ .each do |name| 
     puts "Hello, my name is #{name}."
   end
 end
