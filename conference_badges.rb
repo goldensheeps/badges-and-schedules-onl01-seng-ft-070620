@@ -1,7 +1,7 @@
 def badge_maker(conference_badges)
-  conference_badges.each do |name| 
-    return "Hello, my name is #{name}."
-  end
+  # conference_badges.each do |name| 
+  #   return "Hello, my name is #{name}."
+  # end
 end
 
 
